@@ -1,0 +1,15 @@
+/src
+  /agents
+    task-extractor.ts
+    priority-engine.ts
+    dependency-engine.ts
+    scheduler.ts
+  /api
+  /services
+  /memory
+  /prompts
+/docs
+README.md
+architecture.md
+patent-note.md
+future-ideas.md
